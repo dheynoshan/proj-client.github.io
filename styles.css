@@ -1,0 +1,95 @@
+.logo-img {
+    height: 100px;
+}
+
+body {
+    
+    margin: 0px;
+    font-family: Geologica;
+    background-color: #D4ADFC;
+}
+.text-class{
+    margin-top: 30%;
+    
+}
+
+.main-container {
+    display: flex;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    
+}
+
+.left-container {
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+    color: #5C469C;
+    background-color: white;
+
+}
+
+.right-container {
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+    background-image: linear-gradient(to left, #0C134F, #5C469C);
+    color: white;
+    font-family: Geologica;
+}
+
+.form-input {
+    display: inline-block;
+    width: 80%;
+    padding: 5px 10px;
+    font-size: 15px;
+    font-weight: 400;
+    background-color: #fff;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.login-button {
+    margin-top: 20px;
+    font-family: Geologica;
+    font-size: 16px;
+    border: none;
+    color: white;
+    width: 50%;
+    height: 35px;
+    background-image: linear-gradient(to right, #0C134F, #5C469C);
+    border-radius: 5px;
+}
+
+.create-new-button {
+    /* margin-top: 10px; */
+    font-family: Geologica;
+    font-size: 16px;
+    border: none;
+    color: #5C469C;
+    width: 50%;
+    height: 35px;
+    background-color: white;
+    border: 3px solid;
+    border-image-slice: 1;
+    /* border-radius: 5px; */
+    border-image-source: linear-gradient(to right, #0C134F, #5C469C);
+
+}
+
+.message1{
+    margin-top: 20px;
+}
+
+.message2{
+    margin-top: 30px;
+}
+
+
+
+
+/* https://colorhunt.co/palette/0c134f1d267d5c469cd4adfc */
